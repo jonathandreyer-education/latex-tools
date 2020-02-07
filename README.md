@@ -1,1 +1,1 @@
-# latex-render
+# LaTeX tools
